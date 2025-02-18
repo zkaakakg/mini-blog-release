@@ -8,6 +8,7 @@ mini-blog-app 프로젝트
 6. code .
 7. npm run dev
 
+```
 /mini-blog-app
 ├── src
 │ ├── components
@@ -27,6 +28,7 @@ mini-blog-app 프로젝트
 ├── package.json
 ├── data.json
 ├── main.jsx
+```
 
 ### 프로덕션 배포하기
 
